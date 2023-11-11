@@ -9,7 +9,7 @@ export const socials = [
     {
         id: 2,
         name: "Personal Website",
-        url: "https://e-portfolio-fv49kqajk-matthew-zimmermans-projects.vercel.app/",
+        url: "https://e-portfolio-blue.vercel.app/",
         handle: ""
     }
 ]
